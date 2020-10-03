@@ -1,0 +1,120 @@
+/********************************TAG SELECTORS**********************************/
+body{
+    font-family: 'Roboto', sans-serif;
+    overflow-y: scroll;
+    overflow-x: hidden;
+}
+hr{
+    padding-top:20px;
+    padding-bottom:20px;
+}
+
+h1{
+    font-family: 'Caveat', cursive;
+}
+h2{
+    font-family: 'IBM Plex Mono', monospace;
+    text-align: left;
+}
+h3{
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+img {
+  border-color:#4D80E4;
+  width: 800px;
+  height: 600px;
+}
+/*******************************CLASS SELECTORS*********************************/
+.section-1{
+    background-color: #DFF6F0;
+    padding-top: 30px;
+}
+.section-2{
+    background-color: #FFF;
+    padding: 3% 7%;
+}
+.section-3{
+    background-color: #DFF6F0;
+    padding: 3% 7%;
+}
+.section-4{
+    background-color: #FFF;
+    padding: 3% 7%;
+}
+.section-5{
+    background-color: #DFF6F0;
+    padding: 3% 7%;
+}
+.section-6{
+    background-color: #fff;
+    padding: 3% 7%;
+}
+.section-7{
+    background-color: #DFF6F0;
+    padding: 3% 27%;
+}
+.section-8{
+    background-color:#fff;
+    padding: 3% 27%;
+}
+.section-9{
+    background-color: #4D80E4;
+    padding: .1% 27%;
+}
+
+.container-fluid{
+    padding-top: 50px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    padding-left: 200px;
+}
+
+.border{
+    border-color: #46B3E6;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 100px;
+}
+.smaller{
+    width:200px;
+    height:200px;
+}
+
+
+
+.navbar-custom{
+    color: #DFF6F0;
+    padding:3% 15%;
+}
+
+.navbar-nav > li{
+  padding-left:15px;
+  padding-right:15px;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255, 255, 255, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+.custom-toggler.navbar-toggler {
+  border-color: #DFF6F0;
+} 
+.bg-custom{
+     background-color: #2E279D;
+ }
+.color-item{ 
+    color: #DFF6F0; 
+ } 
+.color-item:hover{
+    color: #46B3E6;
+}
+
+.linkin-link{
+    color: #fff;
+}
+
+
+/********************************ID SELECTORS***********************************/
+
+
+/********************************IDK*******************************************/
+
